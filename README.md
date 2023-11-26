@@ -13,6 +13,25 @@ Disclaimer: We do not accept responsibility for any misuse!
 # Termux
 ![Screenshot_2023_1127_013545_com termux](https://github.com/SenselessDNS/XSStrap-master/assets/100872213/de8bc8b7-9d3a-4822-92b4-43c3fccd06e2)
 
+# How to use?
+```main.py -u "http://www.example.com/index.php?param=1"```
+**Performs an XSS vulnerability scan on the site**
+
+```main.py -u "http://www.example.com/index.php?param=1" --user-agent```
+**Sends requests with a random user agent**
+
+```main.py -u "http://www.example.com/index.php?param=1` --Level=1```
+**Conducts more thorough scans based on the given level; valid values are 1-5 (default is 1)**
+
+```main.py -u "http://www.example.com/index.php?param=1" --time-sec=5```
+**Avoids spam by scanning within the specified time interval**
+
+```main.py -u "http://www.example.com/index.php?param=1" --Cookie="PHPSESSID:QWE123..."```
+**Logs in with the specified cookie**
+
+```main.py -u "http://www.example.com/index.php?param=1" --trap-backdoor```
+**Creates a backdoor; cookies are extracted via the generated link (this feature is in development)**
+
 # How to install?
 ```Kali Linux```
 1. git clone https://github.com/SenselessDNS/XSStrap-master.git
