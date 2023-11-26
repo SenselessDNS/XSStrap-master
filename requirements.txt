@@ -1,0 +1,5 @@
+Flask
+pyngrok
+colorama
+requests
+random-user-agent
