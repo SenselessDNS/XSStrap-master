@@ -37,18 +37,18 @@ Disclaimer: We do not accept responsibility for any misuse!
 1. git clone https://github.com/SenselessDNS/XSStrap-master.git
 2. cd XSStrap-master
 3. pip3 install -r requirements.txt
-4. Python3 main.py
+4. python3 main.py
 
 ```Windows```
 1. install XSStrap-master
 2. cd XSStrap-master
 3. pip install -r requirements.txt
-4. Python main.py
+4. python main.py
 
 ```Termux```
 1. git clone https://github.com/SenselessDNS/XSStrap-master.git
 2. cd XSStrap-master
 3. pip3 install -r requirements.txt
-4. Python3 main.py
+4. python3 main.py
 
 Note: Mobile data and hotspot must be enabled to use the backdoor feature.
