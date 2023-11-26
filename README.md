@@ -14,3 +14,14 @@ Disclaimer: We do not accept responsibility for any misuse!
 
 # How to install?
 ```Kali Linux```
+1. git clone https://github.com/SenselessDNS/XSStrap-master.git
+2. cd XSStrap-master
+3. pip install -r requirements.txt
+4. Python main.py
+
+```Termux```
+1. git clone https://github.com/SenselessDNS/XSStrap-master.git
+2. cd XSStrap-master
+3. pip install -r requirements.txt
+4. Python main.py
+Note: Mobile data and hotspot must be enabled to use the backdoor feature.
