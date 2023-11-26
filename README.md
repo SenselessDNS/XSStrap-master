@@ -1,9 +1,9 @@
-# XSStrap-master 🐍
+# XSStrap-master (BETA) 🐍
 [Discord](https://discord.gg/upNDjFqkBp)
 
 First and foremost, Cross-Site Scripting (XSS) is a vulnerability that allows the execution of JavaScript commands on a website, enabling various malicious activities such as cookie theft and fake login screens.
 
-XSStrap-master is a tool designed to scan XSS security vulnerabilities on a website (currently only active for URLs). It operates on both Windows and Kali Linux, carrying a substantial payload for testing purposes.
+XSStrap-master is a tool designed to scan XSS security vulnerabilities on a website (currently only active for URLs). It operates on both Windows, Kali Linux and Termux carrying a substantial payload for testing purposes.
 
 Disclaimer: We do not accept responsibility for any misuse!
 # Kali Linux
@@ -17,13 +17,19 @@ Disclaimer: We do not accept responsibility for any misuse!
 ```Kali Linux```
 1. git clone https://github.com/SenselessDNS/XSStrap-master.git
 2. cd XSStrap-master
+3. pip3 install -r requirements.txt
+4. Python3 main.py
+
+```Windows```
+1. install XSStrap-master
+2. cd XSStrap-master
 3. pip install -r requirements.txt
 4. Python main.py
 
 ```Termux```
 1. git clone https://github.com/SenselessDNS/XSStrap-master.git
 2. cd XSStrap-master
-3. pip install -r requirements.txt
-4. Python main.py
+3. pip3 install -r requirements.txt
+4. Python3 main.py
 
 Note: Mobile data and hotspot must be enabled to use the backdoor feature.
