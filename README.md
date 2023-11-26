@@ -1,5 +1,6 @@
 # XSStrap-master 🐍
-**https://discord.gg/upNDjFqkBp**
+[Discord](https://discord.gg/upNDjFqkBp)
+
 First and foremost, Cross-Site Scripting (XSS) is a vulnerability that allows the execution of JavaScript commands on a website, enabling various malicious activities such as cookie theft and fake login screens.
 
 XSStrap-master is a tool designed to scan XSS security vulnerabilities on a website (currently only active for URLs). It operates on both Windows and Kali Linux, carrying a substantial payload for testing purposes.
@@ -24,4 +25,5 @@ Disclaimer: We do not accept responsibility for any misuse!
 2. cd XSStrap-master
 3. pip install -r requirements.txt
 4. Python main.py
+
 Note: Mobile data and hotspot must be enabled to use the backdoor feature.
