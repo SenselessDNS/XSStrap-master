@@ -1,2 +1,2 @@
 # XSStrap-master
-https://discord.gg/upNDjFqkBp
+*https://discord.gg/upNDjFqkBp*
