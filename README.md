@@ -13,3 +13,4 @@ Disclaimer: We do not accept responsibility for any misuse!
 ![Screenshot_2023_1127_013545_com termux](https://github.com/SenselessDNS/XSStrap-master/assets/100872213/de8bc8b7-9d3a-4822-92b4-43c3fccd06e2)
 
 # How to install?
+```Kali Linux```
