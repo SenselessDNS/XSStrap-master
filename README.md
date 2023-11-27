@@ -23,7 +23,7 @@ Disclaimer: We do not accept responsibility for any misuse!
 ```main.py -u "http://www.example.com/index.php?param=1` --Level=1```
 **Conducts more thorough scans based on the given level; valid values are 1-5 (default is 1)**
 
-```main.py -u "http://www.example.com/index.php?param=1" --time-sec=5```
+```main.py -u "http://www.example.com/index.php?param=1" --sleep-second=5```
 **Avoids spam by scanning within the specified time interval**
 
 ```main.py -u "http://www.example.com/index.php?param=1" --Cookie="PHPSESSID:QWE123..."```
