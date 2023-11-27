@@ -1,5 +1,6 @@
 # XSStrap-master (BETA) 🐍
-[Discord](https://discord.gg/upNDjFqkBp)
+[![Açıklama metni](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SenselessDNS)  [![Açıklama metni](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/upNDjFqkBp)  [![Açıklama metni](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=grey)](https://www.python.org/)  [![Açıklama metni](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  [![Açıklama metni](https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/tr-tr/software-download/windows10)
+
 
 First and foremost, Cross-Site Scripting (XSS) is a vulnerability that allows the execution of JavaScript commands on a website, enabling various malicious activities such as cookie theft and fake login screens.
 
