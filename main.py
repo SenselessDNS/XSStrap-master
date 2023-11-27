@@ -1,5 +1,5 @@
 import os
-os.system("ngrok config add-authtoken 2EcFi3NgdSCjz541gmD1ChlnGOr_6wiepJMBeBSVCGoRkm5Lf || ./ngrok config add-authtoken 2EcFi3NgdSCjz541gmD1ChlnGOr_6wiepJMBeBSVCGoRkm5Lf || ngrok authtoken 2EcFi3NgdSCjz541gmD1ChlnGOr_6wiepJMBeBSVCGoRkm5Lf")
+os.system("ngrok config add-authtoken 2EcFi3NgdSCjz541gmD1ChlnGOr_6wiepJMBeBSVCGoRkm5Lf && ./ngrok config add-authtoken 2EcFi3NgdSCjz541gmD1ChlnGOr_6wiepJMBeBSVCGoRkm5Lf && ngrok authtoken 2EcFi3NgdSCjz541gmD1ChlnGOr_6wiepJMBeBSVCGoRkm5Lf")
 import hashlib
 from datetime import datetime
 from flask import Flask, request
